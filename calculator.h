@@ -7,7 +7,9 @@ class Calculator
         int Add (double, double);
         int Sub (double, double);
         int Mul (double, double);
-
+	int Div (double, double);
+	int Square (double);
+	int Average(double, double);
 };
 
 #endif//CALCULATOR_H
